@@ -1,0 +1,19 @@
+{
+  "name":"OnPet",
+  "short_name":"OnPet",
+  "description":"OnPet é uma ferramenta de registro, reconhecimento e rastreamento de animais de estimação.",
+  "icons": [
+    {
+      "src":"http://localhost/OnPet/assets/img/onpetapp-logo.png",
+      "sizes":"400x400",
+      "type":"image/png",
+      "purpose":"any"
+    }
+  ],
+  "background_color":"#ffffff",
+  "theme_color":"#ffffff",
+  "display":"fullscreen",
+  "orientation":"portrait",
+  "start_url":"http://localhost/OnPet/app/",
+  "scope":"http://localhost/OnPet/app/"
+}
